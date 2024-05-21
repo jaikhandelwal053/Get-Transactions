@@ -8,7 +8,7 @@ IN Application I am use Account Number (accountNumber): 12233300011001
 
 **Transactions Service** 
 
-Scenario A: When the status value is "ALL":
+Scenario A: When the status value is "ALL":\
 ```URL : http://localhost:8090/transactions/{accountNumber}?status=all```: 
 ```
 {
