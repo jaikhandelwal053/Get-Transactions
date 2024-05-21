@@ -1,11 +1,33 @@
 # JAVA MINI Assignment 1
 
 ## API for Feign Client Application 
-## By use the Factory Design Pattern
+## "Get Transactions" Endpoint Implementation
+
+## Description
+This project implements a RESTful endpoint to retrieve transactions for a given account number based on the transaction status (ALL, success, pending, failure). It utilizes Spring Boot, JPA, Completable Future, and Factory Design Pattern.
+
+## Technologies Used
+    Java 8+
+    Spring Boot
+    JPA
+    Completable Future
+    Feign Client/WebClient
+    JUnit
+    Mockito
+
+## How to Run
+### Backend Servers
+  Run Backend Server 1: http://localhost:8081
+  Run Backend Server 2: http://localhost:8082
+  Run Backend Server 3: http://localhost:8083
+  
+### Main Application
+  Run the main application: http://localhost:8090
 
 
 IN Application I am use Account Number (accountNumber): 12233300011001
 
+# API Endpoints
 **Transactions Service** 
 
 Scenario A: When the status value is "ALL":\
