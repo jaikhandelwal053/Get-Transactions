@@ -17,9 +17,9 @@ This project implements a RESTful endpoint to retrieve transactions for a given 
 
 ## How to Run
 ### Backend Servers
-  Run Backend Server 1: http://localhost:8081\
-  Run Backend Server 2: http://localhost:8082\
-  Run Backend Server 3: http://localhost:8083
+  Run Backend Server 1: http://localhost:8081 \
+  Run Backend Server 2: http://localhost:8082 \
+  Run Backend Server 3: http://localhost:8083 \
   
 ### Main Application
   Run the main application: http://localhost:8090
